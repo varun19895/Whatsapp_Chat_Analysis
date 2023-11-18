@@ -1,0 +1,846 @@
+[2023-10-19, 8:30:11 PM] NLP & Social Media - LAMBTON: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[2023-10-19, 8:30:11 PM] Auradee Castro: ‎Auradee Castro created group “NLP & Social Media - LAMBTON”
+[2023-10-19, 8:30:11 PM] NLP & Social Media - LAMBTON: ‎Auradee Castro added you
+[2023-10-19, 8:32:35 PM] Auradee Castro: Hello guys! 👋🏻🙂
+‎[2023-10-19, 8:38:10 PM] Roger Mais: ‎GIF omitted
+[2023-10-19, 8:43:54 PM] Rochan: Hey everyone 😄
+[2023-10-19, 8:43:55 PM] Auradee Castro: Kindly research on different NLP projects and select your *top 2-3 topics*. We'll go over them tomorrow and make a final decision. Make sure that there is publicly available data of at least 100+ MB for the chosen topics. Thank you! 🙂
+[2023-10-19, 8:44:25 PM] Auradee Castro: hi rochan! this is my first time working with you hehe
+[2023-10-19, 8:44:45 PM] Rochan: Me too 😄
+[2023-10-19, 8:46:00 PM] Abhishek Natani: Trust me it’s not us he wants to work with. It’s only R MAISSSSS
+[2023-10-19, 8:46:22 PM] Abhishek Natani: We are not even priority
+[2023-10-19, 8:46:54 PM] Abhishek Natani: Same with Roger! He agreed to keep me and varun only because of Rochan! These 2 have something cooking
+[2023-10-19, 8:49:14 PM] Auradee Castro: IKR, he was so happy and excited when he found about that he'll be working with roger haha
+[2023-10-19, 8:51:11 PM] Abhishek Natani: Oh you should’ve seen Roger! He went “Oo La La”
+‎[2023-10-19, 8:51:28 PM] Abhishek Natani: ‎GIF omitted
+‎[2023-10-19, 8:52:35 PM] Roger Mais: ‎GIF omitted
+‎[2023-10-19, 11:26:23 PM] Varun: ‎GIF omitted
+[2023-10-20, 12:05:38 PM] Auradee Castro: GitHub link: https://github.com/abccastro/NLP-Placeholder ‎<This message was edited>
+[2023-10-20, 2:17:11 PM] Roger Mais: - Spacy 
+- Rasa
+ We trying to get the intent from text
+[2023-10-20, 2:17:26 PM] Roger Mais: “ I want to book a flight from Jamaica to Canada at 10am “
+‎[2023-10-20, 4:03:06 PM] ~ Bhumika: reviews.csv ‎document omitted
+[2023-10-20, 9:28:41 PM] ~ Bhumika: By the way we got group 3 for nlp
+[2023-10-20, 9:29:06 PM] Abhishek Natani: Hahaha
+[2023-10-20, 9:29:14 PM] Abhishek Natani: Why did you tell them
+[2023-10-20, 9:30:32 PM] Abhishek Natani: So yes guys! As I said , stupid people , none of them chose group 3-4 so we chose 3
+[2023-10-20, 9:33:13 PM] Roger Mais: What?!!
+[2023-10-20, 9:33:16 PM] Roger Mais: How comes??
+[2023-10-20, 9:33:28 PM] ~ Bhumika: We were messing with you guys
+[2023-10-20, 9:33:42 PM] Abhishek Natani: I told ya! None of them would pick 3 and eventually they didn’t
+[2023-10-20, 9:33:45 PM] Abhishek Natani: Hahaha
+[2023-10-20, 9:34:07 PM] ~ Olivia: 😀
+‎[2023-10-20, 9:34:08 PM] Roger Mais: ‎GIF omitted
+[2023-10-20, 9:34:22 PM] ~ Olivia: You guys submitted the assignment ‎<This message was edited>
+[2023-10-20, 9:34:38 PM] Roger Mais: For cape stone?
+[2023-10-20, 9:35:04 PM] ~ Olivia: So slang Roger capestone? 🤣
+[2023-10-20, 9:35:27 PM] Roger Mais: Lol damn autocorrect
+[2023-10-20, 9:35:46 PM] ~ Olivia: When studying in canada why does it seem to be a sin to have party 🤣
+[2023-10-20, 9:36:10 PM] Roger Mais: Lmao
+[2023-10-20, 9:36:24 PM] ~ Olivia: Always working on school work when attending party. Hahaha
+[2023-10-20, 9:36:38 PM] Varun: Since we are talking about party, Roger see you tomorrow
+‎[2023-10-20, 9:45:32 PM] Roger Mais: ‎GIF omitted
+[2023-10-20, 9:47:57 PM] Auradee Castro: is this for real? lol … but yey for us! haha
+[2023-10-20, 9:48:14 PM] Roger Mais: Lol right?
+[2023-10-20, 9:48:18 PM] Abhishek Natani: Hahah yes we r group 3
+[2023-10-20, 9:49:27 PM] Auradee Castro: maybe the groups who chose the last numbers, they didn't know they will be the first to present on final presentation hahahaha
+[2023-10-22, 3:27:45 PM] Roger Mais: What time meeting tomorrow?
+[2023-10-23, 2:29:42 PM] Roger Mais: This is why I said wait till @14372606051  is back lol  cuz everyone disappeared lol
+[2023-10-26, 11:29:11 AM] Roger Mais: Lol guys we have to me today/ tomorrow we have to enter the next GitHub upload
+[2023-10-26, 11:30:14 AM] ~ Olivia: Just for testing or the real code
+[2023-10-26, 11:30:16 AM] ~ Olivia: Hahaha
+[2023-10-26, 11:30:40 AM] Auradee Castro: Hello guys! Sorry, i turned off all stuff related to school while on vacation coz I kept on dreaming them haha anyway, do you want to meet later? Esp to people who haven’t tried committing to github ‎<This message was edited>
+[2023-10-26, 11:31:28 AM] Auradee Castro: Also we should finalize our dataset as well. Are we still looking for a new one or just use what bhumika has found?
+[2023-10-26, 11:32:14 AM] Auradee Castro: ‎This message was deleted.
+[2023-10-26, 11:33:06 AM] ~ Bhumika: It’s this one… I’ll send the link as well
+[2023-10-26, 11:33:09 AM] Auradee Castro: Here’s the dataset
+[2023-10-26, 11:33:36 AM] Varun: Hiiii
+[2023-10-26, 11:36:09 AM] Varun: Are we doing an online call or meeting in person?
+[2023-10-26, 11:37:12 AM] ~ Olivia: Online
+[2023-10-26, 11:37:22 AM] ~ Olivia: I am available till 8pm
+[2023-10-26, 11:37:41 AM] Auradee Castro: online call.. actually, I need to recall the things we discussed last week 😅
+[2023-10-26, 11:38:03 AM] ~ Olivia: The looooong… discussion last friday I heard
+[2023-10-26, 11:38:32 AM] Varun: Can we keep it tomorrow in the morning sometime? If  everyone is okay?
+[2023-10-26, 11:39:00 AM] Roger Mais: - Sentiment Analysis - Multiple Technique
+-  
+- STREAMLIT
+
+Big model 
+- multiple sub-models
+- Mutiple column (  title ) these titles this movie falls in horror , Romance 
+- ( second model ) Which combines title an review ( title positive. ) body ( negative ) 
+- Years — all bad in 1990 , all good in 2022 sentiment of people change for horror 
+- This movie is ver good in action but lacked the plot (  neutral ) but you can split the data ( good in action, bad in plot ) 
+- Combine 3rd movie ( from TF-IDF word2vec ) based on the 2 model weightage - Nune2 -  negative - but body is positive -  
+ - Report for producers an directs would go wrong with the movie NOT UI FOCUS 
+
+- Trend year to year - sentiment 
+- Date cleaning 
+- Extraction 
+- One model ( for midterm )
+[2023-10-26, 11:39:30 AM] Roger Mais: Some of the random notes I took
+[2023-10-26, 11:39:47 AM] Varun: This is not random. You noted down everything 😂
+[2023-10-26, 11:40:27 AM] Auradee Castro: here's the GitHub link for NLP project: https://github.com/abccastro/Movie-Sentiment-Analysis
+
+kindly send me your email @14379839255 @6596751777 @16478968425 @919460760368. I'll add you as part of collaborators. 
+
+then test your commit by adding name on the readme file, incl @16479979841 @18762810413
+[2023-10-26, 11:40:30 AM] Abhishek Natani: Crazy man
+[2023-10-26, 11:40:48 AM] Auradee Castro: great, thanks roger! :D
+[2023-10-26, 11:41:18 AM] Varun: What are we focusing on for this commit?
+[2023-10-26, 11:41:40 AM] Abhishek Natani: nataniabhishek1212@gmail.com
+[2023-10-26, 11:42:05 AM] Abhishek Natani: Here you go @14372606051
+[2023-10-26, 11:42:11 AM] Auradee Castro: just to test first if there will be no issues committing codes
+[2023-10-26, 11:43:09 AM] Auradee Castro: DO NOT OVERRIDE CHANGES OF OTHERS PLEASE. this was the issue of Bhumika and miraj last time hahaha try to merge the differences before committing 😂 ‎<This message was edited>
+[2023-10-26, 11:43:58 AM] Roger Mais: This week commit should be one the overall project …how we spitting up the tasks an to which who belongs to “mini teams “
+[2023-10-26, 11:44:05 AM] Roger Mais: An add to that @14372606051
+[2023-10-26, 11:47:40 AM] Auradee Castro: actually, I haven't thought about the division of tasks.. we just got the idea from our professor right? but we haven't about it thoroughly... but first try to commit your names on readme file.
+[2023-10-26, 11:48:46 AM] Auradee Castro: added you @919460760368. kindly check your notification GitHub inbox, then accept my request :)
+[2023-10-26, 11:48:55 AM] ~ Olivia: same @14372606051  ovd.lambton@gmail.com
+[2023-10-26, 11:50:58 AM] Auradee Castro: added you as well @6596751777. however do you have GitHub account for this email? it's showing a diff icon
+[2023-10-26, 11:51:39 AM] ~ Olivia: Yes this was the one we used in previous project 😀 I’ll check
+[2023-10-26, 11:52:04 AM] Auradee Castro: github link: https://github.com/abccastro/Movie-Sentiment-Analysis
+[2023-10-26, 11:52:41 AM] Varun: varunsharma198999@gmail.com
+[2023-10-26, 11:53:36 AM] Auradee Castro: added you @14379839255 as well. please check your github inbox and accept the request
+[2023-10-26, 11:54:29 AM] Varun: I didnt get it. Can you try adding using my username? Its varunsh19895
+[2023-10-26, 11:56:37 AM] Auradee Castro: I couldn't find that username. only this one *varun19895*
+[2023-10-26, 11:57:10 AM] Auradee Castro: wait for at most 5 minutes maybe
+[2023-10-26, 12:01:04 PM] Auradee Castro: ‎This message was deleted.
+[2023-10-26, 12:13:14 PM] Varun: Ya looks like i have 2 github accounts. But I didn’t get the request on this one as well. Varun19895
+‎[2023-10-26, 12:17:38 PM] Varun: ‎image omitted
+[2023-10-26, 12:17:46 PM] Varun: Can you try again @14372606051
+‎[2023-10-26, 12:18:51 PM] Auradee Castro: ‎image omitted
+[2023-10-26, 12:19:06 PM] Varun: There is nothing i checked
+‎[2023-10-26, 12:19:41 PM] Varun: ‎image omitted
+[2023-10-26, 12:19:45 PM] Auradee Castro: I actually, removed the previous request, then added you again hmm
+[2023-10-26, 12:21:55 PM] Varun: 🙁
+[2023-10-26, 12:22:38 PM] Varun: I am in
+[2023-10-26, 12:23:29 PM] Auradee Castro: yes, the status has changed. what did you do?
+[2023-10-26, 12:24:15 PM] Varun: There was an option in the email invitation to accept or decline lol
+[2023-10-26, 12:25:31 PM] Auradee Castro: ahh you missed it hahaha okay, so try to clone the repo. for the commit, you can use vscode for that.
+[2023-10-26, 12:25:53 PM] Auradee Castro: NOTE: once you accepted the request, update the README.md file with your name. commit the changes to Github after. let me know if there are issues 🙂
+
+Cloning a repository
+1. Open Git Bash.
+2. Change the current working directory to the location where you want the cloned directory.
+3. Type git clone, and then paste the URL.
+
+*git clone https://github.com/abccastro/Movie-Sentiment-Analysis.git*
+
+4. Press Enter to create your local clone.
+[2023-10-26, 1:45:13 PM] ~ Olivia: @14379886105 can you share the link to the reviews.csv I am not able to download on whatsapp
+[2023-10-26, 1:51:41 PM] ~ Bhumika: https://www.kaggle.com/datasets/raynardj/imdb-vision-and-nlp?select=movies.csv
+[2023-10-26, 1:51:53 PM] ~ Olivia: Thank you
+[2023-10-26, 1:54:08 PM] ~ Olivia: I remember last term @14379839255 your project is something related to this movie right?
+[2023-10-26, 1:55:00 PM] Varun: Yes it was recommendation system
+[2023-10-26, 1:55:04 PM] ~ Olivia: I remember writing some findings about toy story or something that gets published twice coz system interprets it as different
+[2023-10-26, 1:55:24 PM] ~ Olivia: So for NLP i think that one can be resolved already. Hopefully 🤣
+[2023-10-26, 1:57:37 PM] Varun: I have made a commit to update my name in the readme file @14372606051
+[2023-10-26, 1:58:34 PM] ~ Olivia: I am able to see your commit @14379839255
+[2023-10-26, 1:59:14 PM] Varun: Great @6596751777
+[2023-10-26, 2:44:00 PM] Auradee Castro: I was able to see both of your commits.. @14379839255 kindly guide rochan and abhishek as well. thank you! :)
+[2023-10-26, 2:44:23 PM] Varun: Sure
+[2023-10-26, 3:08:03 PM] Varun: NLP mid term marks are out lol
+[2023-10-26, 3:08:32 PM] ~ Olivia: I don’t want to see 😬
+[2023-10-26, 3:09:02 PM] ~ Olivia: I’ll take a look on tuesday after the other midterm exams
+[2023-10-26, 3:09:03 PM] ~ Olivia: Hahaha
+[2023-10-26, 3:09:55 PM] Varun: Haha yes. I did the mistake and saw it. Now i am depressed
+[2023-10-26, 3:10:38 PM] ~ Olivia: I am just hoping for the bonus points
+[2023-10-26, 3:18:33 PM] Auradee Castro: i'll check this after the exams as well on tues.. 😬 ‎<This message was edited>
+‎[2023-10-26, 6:04:14 PM] Auradee Castro: ‎image omitted
+[2023-10-26, 6:17:18 PM] Auradee Castro: i can show you the process 🙂 ..also with regards to meeting, when do you want to have it: today or tomorrow?
+[2023-10-26, 6:21:43 PM] ~ Bhumika: Yeah sounds good
+[2023-10-26, 6:22:46 PM] ~ Bhumika: I’m okay with either
+[2023-10-26, 6:42:06 PM] Miraj: Welcome back Aura. Just catching up on the conversation. I'm fine with either of the days but would prefer it if we met in the evening. Let us know what time works for everyone.
+[2023-10-26, 6:42:35 PM] Abhishek Natani: Tomorrow evening works for me
+[2023-10-26, 6:48:11 PM] Roger Mais: I soon call you to tell me what happened in this group lol
+[2023-10-26, 6:49:37 PM] Varun: Tomorrow anytime works for me as well!
+[2023-10-26, 9:02:52 PM] Auradee Castro: *is 7pm okay for everyone?* 🙂
+
+also I created documentation for Git process: https://github.com/abccastro/Movie-Sentiment-Analysis/blob/main/reference%20documents/Git%20Process.pdf. let me know if there are any concerns. i'll run through the doc by tomorrow. 
+
+@16478968425 what's your Git account?
+@919460760368 kindly accept the collaboration invite. I think it has an expiration.
+[2023-10-26, 9:06:37 PM] Rochan: Give me some time i have two let me check the credentials
+[2023-10-26, 9:32:20 PM] Rochan: ‎This message was deleted.
+[2023-10-26, 9:32:37 PM] Rochan: rochan.mehta1993@gmail.com
+[2023-10-26, 9:32:49 PM] Rochan: @14372606051 !!
+[2023-10-26, 9:33:52 PM] Rochan: Accepted too!!
+[2023-10-26, 9:34:02 PM] Auradee Castro: hahaha I was about to say it
+[2023-10-26, 9:36:07 PM] Auradee Castro: i set the meeting at 7pm. let me know if you guys have issues. we'll discuss abt the NLP project and git process 🙂
+[2023-10-27, 6:26:24 PM] ~ Olivia: Hi Guys, won’t be able to attend the 7pm call tonight. Mommy duties 😀 My son’s birthday celebration.
+‎[2023-10-27, 6:26:34 PM] ~ Olivia: ‎image omitted
+[2023-10-27, 6:26:56 PM] Varun: Wohoo. Happy birthday 🎈
+[2023-10-27, 6:26:59 PM] ~ Olivia: I already started with the analysisof the data shared by Bhumika
+[2023-10-27, 6:27:08 PM] ~ Olivia: Thanks @14379839255 😀
+[2023-10-27, 6:27:28 PM] Varun: Then meeting should have been there at your place today
+[2023-10-27, 6:27:34 PM] ~ Olivia: Lez go
+[2023-10-27, 6:27:52 PM] ~ Olivia: These kids doesn’t get tired of jumping the trampoline 🤣
+‎[2023-10-27, 6:28:06 PM] ~ Olivia: ‎image omitted
+[2023-10-27, 6:28:07 PM] Roger Mais: Lol
+[2023-10-27, 6:28:16 PM] ~ Olivia: Dare you to climb there
+‎[2023-10-27, 6:55:41 PM] Roger Mais: ‎GIF omitted
+‎[2023-10-27, 6:56:39 PM] Miraj: ‎GIF omitted
+[2023-10-27, 10:32:10 PM] Roger Mais: Manage to update my repo
+[2023-10-27, 11:14:43 PM] Auradee Castro: You’ll experience the headache once you merge the codes in main branch 😅
+‎[2023-10-27, 11:15:43 PM] Varun: ‎GIF omitted
+[2023-10-27, 11:17:21 PM] Auradee Castro: @14379839255 kindly guide rochan and abhishek on git process 😂
+‎[2023-10-27, 11:17:54 PM] Varun: ‎GIF omitted
+[2023-10-27, 11:18:46 PM] Varun: I will try Aura. I am not as patient as you are
+[2023-10-27, 11:18:47 PM] Varun: 😂
+[2023-10-27, 11:20:55 PM] Auradee Castro: Not really, i think i snapped a while ago. Sorry guys 😅 Been so stressed lately with a lot of things, I want to complete this term ASAP 🥺😂 ‎<This message was edited>
+[2023-10-27, 11:22:38 PM] Varun: It’s okay Aura. I feel you. We are gonna get through this don’t worry. Relax now and enjoy your weekend 🎈
+‎[2023-10-27, 11:23:40 PM] Roger Mais: ‎GIF omitted
+‎[2023-10-27, 11:27:16 PM] Varun: ‎GIF omitted
+‎[2023-10-28, 12:06:41 AM] Auradee Castro: ‎image omitted
+[2023-11-01, 11:09:27 AM] Roger Mais: https://www.youtube.com/watch?v=iIGlAsN1nEs
+[2023-11-01, 11:09:34 AM] Roger Mais: so this essentially solves our project
+[2023-11-01, 11:10:00 AM] Roger Mais: from training the sentiment model
+[2023-11-01, 11:10:22 AM] Roger Mais: to asking queries that returns a dataset based on the sentiment
+[2023-11-01, 11:10:45 AM] Roger Mais: “ were customers satisfied with the hotel room size” ?
+[2023-11-01, 11:11:55 AM] Roger Mais: we still need to clean an test an get accuracy scores and also compare with other models but looks good 👍🏽
+[2023-11-01, 1:19:11 PM] Roger Mais: we also can use PART OF SPEECH tagging to get specific meaning from the review:
+
+In the sentence "the plot of the movie is boring," the words are categorized as follows:
+
+"The" - Article (definite article)
+"plot" - Noun (the subject of the sentence)
+"of" - Preposition (shows the relationship between "plot" and "the movie")
+"the" - Article (definite article)
+"movie" - Noun (the object of the prepositional phrase)
+"is" - Verb (linking verb, connects the subject "plot" to the predicate)
+"boring" - Adjective (describes the subject "plot")
+[2023-11-01, 1:19:22 PM] Roger Mais: In the sentence "I found no joy in the plot," the words are categorized as follows:
+
+1. "I" - Pronoun (subject of the sentence)
+2. "found" - Verb (past tense of the verb "find")
+3. "no" - Determiner (indicates the absence of something)
+4. "joy" - Noun (the object of the prepositional phrase)
+5. "in" - Preposition (shows the relationship between "joy" and "the plot")
+6. "the" - Article (definite article)
+7. "plot" - Noun (the object of the prepositional phrase)
+
+So, the part of speech for each word in the sentence is as follows: pronoun, verb, determiner, noun, preposition, article, noun.
+[2023-11-01, 1:55:50 PM] ~ Olivia: Dataset for Movies with Cast https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/
+[2023-11-02, 9:17:10 AM] Auradee Castro: Thank you Roger! Will watch this one later
+[2023-11-02, 9:18:16 AM] Auradee Castro: Hello guys! Good morning! The codes with initial set of text preprocessing is in the main branch, including our new dataset for movie metadata and credits (cast and crew). Kindly pull the changes to your branch and start working on the designated task. Btw, you’re free to correct or add more to the initial preprocessing.
+
+Also you might notice that there are still issues on some records, kindly ignore them. I’m still working on it. They are all marked as TODO.. you can work with sample first to lessen the execution time of the code for testing. 
+
+Don’t forget to commit to your branch, no matter how small the changes are. Let me know for any concerns 🙂 ‎<This message was edited>
+[2023-11-02, 9:24:27 AM] ~ Olivia: Thanks Aura 😀
+[2023-11-02, 9:29:44 AM] Auradee Castro: Our professor mentioned that commits are not limited to codes. Documentation, references, etc. can be commited in GitHub as well. So don’t forget to update the reference section for any articles you’ve read. Thank you! 😊
+[2023-11-02, 2:54:19 PM] Auradee Castro: I removed some records that were not properly webscraped by the source, hence causing errors when merging dataframes for movie metadata and credits. So download the files from this link instead so that we’ll be using same set of files.
+
+https://drive.google.com/drive/folders/1Gqi7O7opyDMyK_F9qcgVHxI24y_SpF44?usp=sharing ‎<This message was edited>
+[2023-11-03, 8:41:01 PM] Miraj: hey guys just to confirm, do we need to commit our part onto the main as well or committing it to our branch is enough?
+[2023-11-03, 9:21:52 PM] ~ Olivia: As I understand can commit to main aswell but it will be reviewed first before it can be merged
+[2023-11-03, 9:22:35 PM] ~ Olivia: But let’s wait for @14372606051 as she is very familiar with this proces
+[2023-11-03, 9:22:38 PM] ~ Olivia: S
+[2023-11-03, 9:48:27 PM] Auradee Castro: Hi @16479979841! If the code is for testing purpose / not final (meaning you’ll add more to the code), just commit it in your branch. Otherwise, you can create a pull request to move changes to main.
+[2023-11-03, 9:49:50 PM] Miraj: Got it. It's mostly on the documentation part for POS (mainly references). So, I'll commit it only to my branch
+[2023-11-04, 9:22:41 AM] Auradee Castro: Hello guys, don’t forget to commit any code changes in github, even if it’s not yet final. 
+
+Also DO NOT COMMIT THE DATASET IN GITHUB coz it might cause syncing problem due to its size. Always check the list of files that you’re committing.
+[2023-11-05, 10:48:37 AM] Auradee Castro: hi @16478968425 and @919460760368, just a reminder that today is the last day of the week. Kindly commit any code changes or updates /researches you've done for this week. for the research, simply update the references. thank you. ‎<This message was edited>
+[2023-11-05, 11:11:46 AM] Auradee Castro: FOR OTHERS: commit all your code changes even if it's not yet final OR you're just comparing codes based from your researches (to check/test which one is better approach) ‎<This message was edited>
+[2023-11-06, 11:31:18 AM] Roger Mais: Anyone finish the ML assignment? Lol
+[2023-11-06, 11:31:34 AM] ~ Olivia: Not yet, will do in the afternoon
+[2023-11-06, 11:31:41 AM] ~ Olivia: It’s theories only right
+[2023-11-06, 11:31:55 AM] ~ Olivia: But weird that need to put in jupyter
+[2023-11-06, 11:31:57 AM] Roger Mais: I beleive so, I’m just look at it now lol
+[2023-11-06, 11:32:15 AM] Roger Mais: An Social Media exam tomorrow
+[2023-11-06, 11:32:20 AM] ~ Olivia: Yes
+[2023-11-06, 11:32:57 AM] ~ Olivia: I just read the ppts
+[2023-11-06, 11:33:13 AM] ~ Olivia: Quite difficult to memorize 🤣
+‎[2023-11-06, 11:34:03 AM] Roger Mais: ‎GIF omitted
+[2023-11-06, 12:09:27 PM] Auradee Castro: Haven’t read it yet. Will start later in the afternoon 😅
+[2023-11-06, 12:11:44 PM] ~ Olivia: If you are not asleep 💤 haha. Cloudy weather today, snooze mode on 😴
+[2023-11-07, 8:00:35 AM] Auradee Castro: hello guys, changes for other text pre-processing (additional regex for cleaning, stopwords removal and lemmatization) are available in main. these are the last part of the process. 
+**warning**: lemmatization might take long to execute the codes
+
+for NER, Spellcheck and POS, if you're planning to pull the codes from main, put your codes before these recent changes.
+[2023-11-07, 8:20:43 AM] Auradee Castro: FOR TEXT PRE-PROCESSING: we need to complete this by end of thurs. we'll use Friday to solve any merge conflicts, and for any additional code changes. @18762810413 needs the weekend to build and evaluate our initial model. remember that the *presentation is next week, November 15*.
+[2023-11-07, 8:22:15 AM] ~ Olivia: Tnanks Aura. Just to confirm no more backlog from my side for the text preprocessing right? 😀 I can try analysing for the next phase which is modelling.
+[2023-11-07, 8:24:24 AM] Auradee Castro: yes, we can help Roger on model building.. you can also add some graphs under EDA 🙂
+[2023-11-07, 8:24:44 AM] ~ Olivia: Ok sure :)
+[2023-11-08, 5:23:25 PM] Auradee Castro: hello guys, can you check if the project board is visible? https://github.com/users/abccastro/projects/1/views/1
+
+kindly check the tasks. let me know if I need to add more to the list.
+[2023-11-08, 5:37:27 PM] ~ Olivia: It’s visible @14372606051
+[2023-11-08, 5:45:26 PM] Auradee Castro: thanks olivia! :)
+[2023-11-08, 5:48:04 PM] Auradee Castro: For model building, it's currently assigned to roger and Varun.. if anyone wants to join the group, please let me know so that I can update the assignee of the task. also if you want to do something from the list, please let me know. The presentation is next week so we need to complete our initial model by Tues.
+
+Project board: https://github.com/users/abccastro/projects/1/views/1 ‎<This message was edited>
+[2023-11-09, 1:41:34 AM] Varun: Which branch has the latest code now? From where should i pull?
+[2023-11-09, 9:07:12 AM] Auradee Castro: hi varun, sorry I missed you message.. pull the changes from dev branch for now. i'll clean the test and prod branches next time
+[2023-11-09, 9:07:39 AM] Varun: Alright
+[2023-11-09, 9:08:36 AM] Varun: For the text pre processing how much time is the lemmatization takes to complete?
+[2023-11-09, 9:08:43 AM] Varun: Approximately?
+[2023-11-09, 9:10:22 AM] Auradee Castro: based form my experience, less than two hours ‎<This message was edited>
+[2023-11-09, 9:10:30 AM] Auradee Castro: ‎This message was deleted.
+[2023-11-09, 9:11:41 AM] Auradee Castro: but I created placeholder tickets to optimize lemma and NER if ever it takes tooooo long to complete
+[2023-11-09, 9:11:55 AM] Varun: I wasn’t able to get much from spell check there were a lot of problems with credits json structure and then parsing it for implementing custom NER. So with a heavy heart i am moving forward now. 😆Will focus on model building from today. Will commit the code for spell check anyways so the effort can be seen
+[2023-11-09, 9:12:19 AM] ~ Olivia: That should be fine, we already discussed with Prof yesterday
+[2023-11-09, 9:12:46 AM] Auradee Castro: go ahead,  already put your ticket on the blockers hahaha so that it will be reflected as part of the tasks
+‎[2023-11-09, 9:13:13 AM] ~ Olivia: ‎GIF omitted
+[2023-11-09, 9:13:16 AM] Varun: Ya i saw that. I got like 6 notifications from you😂
+[2023-11-09, 9:13:50 AM] Auradee Castro: oooh I didn't know that people get notified. I kept of changing stuff haha sorry for spam
+[2023-11-09, 9:14:22 AM] Varun: I need to turn off my email notifications lol
+[2023-11-09, 9:15:57 AM] Auradee Castro: sorry hahahaha prof is asking a lot from this project. i'm surprised that he wants us to mimic real world projects 😅
+[2023-11-09, 9:18:19 AM] Varun: And he was like you must be doing it already for the capstone😂
+[2023-11-09, 9:19:24 AM] Auradee Castro: his standard is so high.. he forgets that it's Lambton college 🙃😂
+[2023-11-09, 9:20:02 AM] Varun: Not just Lambton college its Lambton college in Mississauga *
+[2023-11-09, 9:20:50 AM] Auradee Castro: oh yeah, need to include Mississauga to be clear haha
+[2023-11-09, 9:21:33 AM] ~ Olivia: Did he shared the program yesterday?
+[2023-11-09, 9:22:01 AM] ~ Olivia: There’s a part there whereby he said we need to implement else have minus in the marks, i forgot to take notes on which part too lazy yesterday ‎<This message was edited>
+[2023-11-09, 9:22:42 AM] Varun: The orange and blue separation of classes he was showing after feature engineering. That was one
+[2023-11-09, 9:22:46 AM] Varun: There was one more
+[2023-11-09, 9:22:59 AM] Auradee Castro: ahh the transform_fit and fit.. to prevent data leakage
+[2023-11-09, 9:23:11 AM] ~ Olivia: Yeah i think that one
+[2023-11-09, 10:15:52 AM] Auradee Castro: @14379839255 you might want to check *docs > research* folder. There are some inputs/suggestions from Roger re model building
+[2023-11-09, 10:16:07 AM] Varun: Yes i will
+‎[2023-11-09, 12:21:41 PM] Varun: ‎image omitted
+[2023-11-09, 1:19:23 PM] Auradee Castro: better than 4hrs+++ 😂
+[2023-11-09, 8:05:44 PM] Auradee Castro: @18762810413 i'm trying to reduce the number of records.. criteria to be considered in dataset
+- movie should have at least 100 reviews (with assumption that they are not popular movies)
+- movie should be released after 1930 (based from popular streaming platforms)
+
+dataset reduced from 542K to 398K. are you okay with this? this is for the reports.
+[2023-11-09, 8:10:15 PM] Roger Mais: Ye that That’s better
+[2023-11-09, 8:11:12 PM] Roger Mais: - FastText
+- Vader
+-Roberta 
+- SVM 
+- Naive Bayes 
+
+Are the models I’m looking at so far ‎<This message was edited>
+[2023-11-09, 8:11:59 PM] Roger Mais: Some are pre trained an don’t require major preprocessing just punctuation, special character ect.
+[2023-11-09, 8:12:19 PM] Roger Mais: They all seem to take the complete review as an input
+[2023-11-09, 8:13:30 PM] Roger Mais: Roberta beings pre trained model seems to be the most accurate
+[2023-11-09, 8:14:11 PM] Roger Mais: - Vectoring 
+- Sentence Transformers 
+
+Used for getting the intent an connections to different reviews
+[2023-11-09, 8:21:50 PM] Auradee Castro: ooh.. though we can evaluate different cases and see which one is producing a better model by providing some metrics
+[2023-11-09, 8:23:34 PM] Auradee Castro: we haven't incorporated NER yet, so the result might change
+[2023-11-09, 8:23:47 PM] Rochan: I did in my branch
+[2023-11-09, 8:24:15 PM] Auradee Castro: I mean we haven't combined it with other codes hehe
+[2023-11-09, 8:24:23 PM] Rochan: Yeah 😅
+[2023-11-09, 8:25:00 PM] Auradee Castro: will check yours and Bhumika's after hehe :)
+[2023-11-09, 8:26:09 PM] Roger Mais: I’m basically gonna have to look at charts to see how many positive reviews and  how much weightage is given based on each model
+[2023-11-09, 10:20:53 PM] Varun: I am also working on vedar and roberta
+[2023-11-09, 10:21:08 PM] Varun: Vader*
+‎[2023-11-10, 12:23:46 AM] Auradee Castro: ‎image omitted
+‎[2023-11-10, 8:41:00 AM] Roger Mais: ‎image omitted
+[2023-11-10, 8:41:17 AM] Roger Mais: i commited the NETLIX questions to my branch
+[2023-11-10, 8:41:30 AM] Roger Mais: you can dowload an take look
+[2023-11-10, 9:07:57 AM] Auradee Castro: Thank you Roger.. kindly check the netflix questions @16479979841 as well
+[2023-11-10, 9:11:06 AM] Auradee Castro: Btw, guys can we have a meeting later for NLP during capstone class? To discuss abt project updates and process changes. Also if we need clarifications from our professor, he can collate first our questions later before asking him 🙂
+[2023-11-10, 9:15:23 AM] Roger Mais: Agreed
+[2023-11-10, 9:19:47 AM] ~ Olivia: Professor who Capstone or NLP?
+[2023-11-10, 9:36:50 AM] Roger Mais: If we have any question after our NLP meeting we can go to the professor, he teaches in the next classroom ‎<This message was edited>
+[2023-11-10, 10:22:08 AM] Miraj: Thanks Roger. Will have a look at it
+‎[2023-11-10, 10:23:19 AM] Roger Mais: ‎GIF omitted
+[2023-11-10, 1:50:27 PM] Abhishek Natani: https://towardsdatascience.com/sentiment-analysis-using-logistic-regression-and-naive-bayes-16b806eb4c4b?gi=42fd91672093
+[2023-11-11, 10:25:42 AM] Roger Mais: Hey everyone so we have first presentation on Wednesday…. @16479979841  presenting and @14379839255  biulding and trading the Logistic Model …. If you guys need any help don’t hesitate to ask an reach out 👍🏾
+[2023-11-11, 10:26:31 AM] Roger Mais: Based on the meeting with the professor I have already started looking at RNN and LSTM models for the final model
+[2023-11-11, 10:27:09 AM] Roger Mais: @16478968425 it turns out we were on the right track with creating the data and using an different model for our own sentinel model
+[2023-11-11, 10:32:26 AM] Auradee Castro: We can also try using the extracted NER from the reviews when building the sentiment analysis model. What do you think? Unfortunately, it’s still under development..
+[2023-11-11, 10:37:36 AM] Roger Mais: Ye provide that as a column possibly …
+‎[2023-11-11, 10:38:15 AM] Roger Mais: ‎audio omitted
+[2023-11-11, 10:38:17 AM] Roger Mais: @14372606051
+[2023-11-11, 10:41:45 AM] Auradee Castro: @18762810413 this is the one written on the excel, I put it in docs: https://github.com/abccastro/Movie-Sentiment-Analysis/blob/dev/docs/Project%20Requirements.pdf
+
+technically, almost the same with the PPT but less details. he detailed the tasks in PPT.
+[2023-11-11, 10:42:05 AM] Roger Mais: Ok great I just want to make sure we on track
+[2023-11-11, 10:42:22 AM] Auradee Castro: i think we're on track for mid term :)
+[2023-11-11, 10:46:14 AM] Auradee Castro: thank you roger! you can't escape RNN.. i mentioned abt it yesterday and you said nooooo 😂 but it's good if we can implement it 🙂
+[2023-11-11, 10:50:05 AM] Auradee Castro: btw @18762810413, this is the sample NERs that were extracted. it's not extracting properly all the names.. i'll looking for ways to customize it. anyway, can you take look which columns do you think is important in the model? i'm thinking of removing ['ORDINAL', 'CARDINAL', 'PERCENT', 'QUANTITY', 'NORP', 'MONEY', 'LAW'] from the list.
+‎[2023-11-11, 10:50:31 AM] Auradee Castro: ner.csv ‎document omitted
+[2023-11-11, 10:50:54 AM] Auradee Castro: since you're building a model, you might have a better insight on this one
+[2023-11-11, 10:52:15 AM] Roger Mais: This is GREAT
+[2023-11-11, 10:52:23 AM] Roger Mais: These are from the reviews?
+[2023-11-11, 10:53:29 AM] Auradee Castro: yes, from the reviews. but not all names are being extracted. we'll see if we can improve it.
+[2023-11-11, 10:53:49 AM] Auradee Castro: do you want to keep these fields? ['ORDINAL', 'CARDINAL', 'PERCENT', 'QUANTITY', 'NORP', 'MONEY', 'LAW']
+[2023-11-11, 10:54:57 AM] Auradee Castro: i found them not useful, but maybe i'm wrong.. hehe
+[2023-11-11, 10:55:13 AM] Roger Mais: Ye I think we don’t need them
+[2023-11-11, 10:57:52 AM] Auradee Castro: okay.. will let you know once it's available the initial version of extracted NERs.. this might take some time to complete. the execution time takes so long 🥲
+[2023-11-11, 11:38:50 AM] Varun: The Review
+ace ventura when nature calls in my opinion is a pure gut-buster i laughed really hard when ace jim carrey sang the slinky song imitated jungle animals and mocked the monopoly guy michael reid mackay as a matter of fact i laughed at just about every funny thing he did in addition i have a lot of favorite parts of this movie especially when ace picked up the skunk and said say hello to my stinky friend before i wrap this up i would like to say if you are going to see this movie prepare to laugh until it hurts now in conclusion i highly recommend this gut-busting comedy to those of you who are jim carrey fans or like gut-busting laughs
+
+vader says - Strongly Negative
+[2023-11-11, 11:39:16 AM] Varun: better and more fun than the original jungle scenes and a jim carrey as pet detective beware animals
+
+again negative for this one
+[2023-11-11, 11:43:13 AM] Roger Mais: Trying using Roberta an see what is says
+[2023-11-11, 11:43:58 AM] Roger Mais: Let me check it
+‎[2023-11-11, 11:46:48 AM] Roger Mais: ‎image omitted
+[2023-11-11, 11:47:22 AM] Roger Mais: @14379839255  Roberta is 96% positive for this one
+[2023-11-11, 11:47:37 AM] Varun: yeah! Roberta is way better
+[2023-11-11, 11:47:44 AM] Roger Mais: so using Roberta is the way to go to biuld the dataset
+[2023-11-11, 11:48:58 AM] ~ Olivia: Wow!!!
+[2023-11-11, 2:10:15 PM] Varun: Roberta takes around 1 min to process 50 records
+[2023-11-11, 2:10:20 PM] Varun: Do the maths
+[2023-11-11, 2:10:40 PM] Varun: For 300k
+[2023-11-11, 2:10:42 PM] Varun: 😂
+[2023-11-11, 2:41:39 PM] ~ Olivia: just in time to complete running before the submission 🤣
+[2023-11-11, 2:42:21 PM] ~ Olivia: More than 4 days
+[2023-11-11, 2:42:22 PM] ~ Olivia: Haha
+‎[2023-11-11, 2:47:39 PM] Auradee Castro: ‎image omitted
+[2023-11-11, 2:47:41 PM] Roger Mais: Lol 🤣🤣
+[2023-11-11, 2:47:59 PM] Roger Mais: How long for Vader??
+[2023-11-11, 2:48:10 PM] Varun: Couple of minutes 😂
+[2023-11-11, 2:48:39 PM] Roger Mais: Yoo running a loop for Roberta?
+[2023-11-11, 2:48:47 PM] Roger Mais: Or manually entering
+[2023-11-11, 2:48:50 PM] Roger Mais: The reviews?
+[2023-11-11, 2:50:09 PM] Varun: I just used a loop on 50 sample records
+[2023-11-11, 2:56:13 PM] Roger Mais: Ok
+[2023-11-11, 2:56:48 PM] Roger Mais: I don’t think we need to do all 300k maybe 5000/10000
+[2023-11-11, 2:56:57 PM] Roger Mais: @14372606051 ?
+[2023-11-11, 2:57:06 PM] Roger Mais: Just for the midpoint?
+[2023-11-11, 2:57:15 PM] Auradee Castro: We need to separate the code for adding labels. It should be now part of the dataset. We can divide the dataset for each member
+‎[2023-11-11, 2:57:31 PM] Varun: ‎image omitted
+[2023-11-11, 2:58:07 PM] Roger Mais: Tell me how long it take lol
+[2023-11-11, 2:58:34 PM] Roger Mais: Upload the code to your GitHub ( change up some names ect ) an everyone can download an loop a section
+[2023-11-11, 2:58:39 PM] Auradee Castro: Is there a way to optimize it? Like running it by batches for multiple threads?
+[2023-11-11, 3:03:27 PM] Auradee Castro: Share us the code @14379839255 and will divide the dataset to each member.
+[2023-11-11, 3:08:06 PM] Varun: Yes aura give me sometime. I am trying something
+[2023-11-11, 5:29:39 PM] Varun: It’s in my local branch now
+[2023-11-11, 5:30:21 PM] Varun: Once everything all the rows are labeled i can proceed with logistic regression model
+[2023-11-11, 5:34:32 PM] Roger Mais: Your able to do all rows?
+[2023-11-11, 5:34:43 PM] Varun: No bro
+[2023-11-11, 5:35:25 PM] Varun: I was trying something but didnt work out
+[2023-11-11, 5:42:09 PM] Roger Mais: Ok
+[2023-11-11, 6:24:36 PM] Auradee Castro: so you run Roberta after initial data pre-processing @14379839255? we can run it even the reviews are not pre-processed right? will they produce same output?
+[2023-11-11, 6:25:48 PM] Varun: Yes we can run it before that too. I just ran it before we did stop words removal and lemmatization.
+[2023-11-11, 6:46:07 PM] Auradee Castro: okay, will try to extract the code so that will just use py file to run the code
+[2023-11-11, 6:46:13 PM] Auradee Castro: thanks! :)
+[2023-11-11, 7:00:43 PM] Varun: Np :)
+[2023-11-11, 8:24:42 PM] Auradee Castro: hello guys, i couldn't upload the split file to google drive. not sure why. anyway, go to varun's repository, run *split_file.py* then *'Generate Sentiments using Roberta.ipynb'*. 
+
+NOTE: change all file path and filenames before running the codes. 
+
+1. split 1: Auradee
+2. split 2: @14379839255 
+3. split 3: @6596751777 
+4. split 4: @14379886105 
+5. split 5: @18762810413 
+6. split 6: @16479979841  / @919460760368 / @16478968425 
+
+upload the file in https://drive.google.com/drive/folders/1NHVZREe0rBuNrWChQjs4kILsOF2fIVNU
+
+can you guys complete it by morning so that Varun can resume model building? let me know if you have questions. thanks!
+[2023-11-11, 8:50:01 PM] Roger Mais: What is the split??
+[2023-11-11, 8:50:16 PM] ~ Olivia: Do we have to download and run on local?
+‎[2023-11-11, 8:52:29 PM] ~ Olivia: ‎image omitted
+[2023-11-11, 8:54:17 PM] Auradee Castro: Varun mentioned that it's long to complete the labelling.. so we need to split the review dataset, and each of us needs run the code for Roberta labelling. it will produce a review dataset with the labels.
+[2023-11-11, 8:54:38 PM] Auradee Castro: wait guys trying to check something
+[2023-11-11, 8:55:04 PM] Roger Mais: Which rows of the data is my spefice split @14372606051 ?
+[2023-11-11, 8:55:11 PM] ~ Olivia: Sure thanks Aura
+[2023-11-11, 8:56:26 PM] Auradee Castro: just a minute.. i'm changing the split # of the files and checking something.. coz 100000 records might take more than 1 day to complete 😵‍💫
+[2023-11-11, 8:57:01 PM] ~ Olivia: Yes, also when we’re runningwe can still the other tabs of vscode right. Hahaha
+[2023-11-11, 8:57:25 PM] Roger Mais: That’s why I was saying earlier
+[2023-11-11, 8:57:28 PM] ~ Olivia: Too much on our plate to complete for next week 😀 3 subjects
+[2023-11-11, 8:57:33 PM] Roger Mais: Let’s do 5000/10,000
+[2023-11-11, 8:57:37 PM] Roger Mais: Just for the midpoint
+[2023-11-11, 8:57:49 PM] Roger Mais: An we do the actual data after so we have more time
+[2023-11-11, 8:58:06 PM] Roger Mais: I think @14379839255  already did 5000 he can do another 5000
+[2023-11-11, 8:58:08 PM] Auradee Castro: but we still need to help Varun on splitting
+[2023-11-11, 8:58:30 PM] Auradee Castro: *adding labels i mean
+[2023-11-11, 8:58:48 PM] Auradee Castro: we can start as early as now. whatever we complete, that's what we're going to present
+[2023-11-11, 8:59:53 PM] Auradee Castro: i think he only tried it for 50 records
+[2023-11-11, 9:00:09 PM] ~ Olivia: Perhaps can specify which part of the code needs to be amended before running we can leave overnight
+[2023-11-11, 9:02:00 PM] Auradee Castro: i tried on my end as well using varun's code.. 10 records take 9mins. but the list of reviews is simple.. it might take longer for long reviews
+[2023-11-11, 9:03:51 PM] ~ Olivia: My gosh 😬
+[2023-11-11, 9:47:13 PM] Auradee Castro: ignore this for now. there might be additional code changes.. sorry guys..
+[2023-11-11, 9:52:08 PM] Abhishek Natani: No worries aura , will wait for the split
+[2023-11-11, 10:16:54 PM] ~ Olivia: No worries @14372606051 thanks for helping on this
+[2023-11-11, 10:34:33 PM] Miraj: btw guys there's an assignment for Capstones asynchronous thats due tonight. just a reminder
+[2023-11-11, 10:35:05 PM] Roger Mais: Wtf!
+[2023-11-11, 10:35:15 PM] Miraj: yeah I just saw it
+[2023-11-11, 10:36:14 PM] Varun: Noooooooo
+[2023-11-11, 10:36:33 PM] Roger Mais: Sigh doesnt he know that diwali festival is Tomorrow lol
+[2023-11-11, 10:36:49 PM] Miraj: exactly 😂
+[2023-11-11, 10:41:00 PM] Auradee Castro: hmmm i think asynch and lab2 are just the same, aren't they? so just resubmit whatever we've submitted in lab2 (in week 7) 😂
+[2023-11-11, 10:41:32 PM] ~ Olivia: Yes just resubmit the Oct 20 lab
+[2023-11-11, 10:42:08 PM] Varun: This college is a joke!
+[2023-11-11, 10:42:34 PM] Roger Mais: Seriously?!?
+‎[2023-11-11, 10:42:53 PM] ~ Olivia: ‎GIF omitted
+[2023-11-11, 10:43:54 PM] ~ Olivia: The only diff was the instruction last lab was watch week 3 and 4. But the actual video is module 3 and 4. This time the instruction was to watch module 3 and 4. Same link 😀
+[2023-11-11, 10:44:27 PM] ~ Olivia: You still have an hour to submit
+[2023-11-11, 10:45:19 PM] Varun: So its the same thing only right? Just resubmit?
+‎[2023-11-11, 10:45:51 PM] ~ Olivia: ‎GIF omitted
+[2023-11-11, 10:46:15 PM] ~ Olivia: Yes
+[2023-11-11, 10:46:17 PM] Varun: 😂😂😂
+[2023-11-11, 10:46:21 PM] Varun: Thanksss
+[2023-11-11, 10:46:31 PM] ~ Olivia: No worries
+[2023-11-12, 1:22:34 AM] Auradee Castro: Hello guys, kindly see the doc for sentiment generating process. 600 assigned files for each person then will merge them afterwards. don't worry, the code is rerunnable and iterates through all files. 😉 the goal is to reduce the impact of a single record failure, preventing it from affecting the entire set of records. all processed old files will be moved to *done* directory, and the files with sentiments in *sentiment* directory. see details in the doc. let me know if you have questions or issues. also if you 
+
+https://github.com/abccastro/Movie-Sentiment-Analysis/blob/dev/docs/Sentiment%20Generating%20Process%20for%20Review%20Dataset.pdf ‎<This message was edited>
+[2023-11-12, 8:34:03 AM] Auradee Castro: I forgot to mention, dev branch contains the codes for NER, which takes way LOOOOOOOOONGER (i think 600+mins) to complete.. *for guys doing tasks after data preprocessing*, i extracted the contents of 'movie_name_entities_df' and 'movie_reviews_df' dataframes. you can simply commented out the codes for data preprocessing and import the datasets from https://mylambton.sharepoint.com/:f:/r/sites/NLPandSocialMediaAnalytics/Shared%20Documents/General/Data%20Post%20Preprocessing?csf=1&web=1&e=ohPcGn, then use the same variables.. if you want *to save time.* You call. 🙂 ‎<This message was edited>
+[2023-11-12, 11:15:45 AM] Auradee Castro: Hi guys! Has anyone tried this? Any issues encountered? You might need to install some libraries. just check the error logs. let me know if you have questions. Olivia was able to run it on her local..
+@14379886105 @16479979841 @14379839255 @18762810413 @919460760368 @16478968425 
+
+Btw, I was able to complete 600 files out of 1.2K files. Incorporating basic data preprocessing and multithreading made it faster. So approximately within half a day, around 600 files would be completed 🙂 
+
+Also you work on another jupyter file while running this code. So there should be no bottleneck on the sentiment analysis development. ‎<This message was edited>
+[2023-11-12, 11:18:04 AM] Varun: Hey Aura, i am so sorry but i wont be able to perform this today. I have work from 11:30 till 8 and then I will be out the whole night for Diwali. 
+If some one can please process for my part as well. So sorry.
+[2023-11-12, 11:18:30 AM] Varun: And Happy Diwali to everyone 🤗
+[2023-11-12, 11:18:49 AM] Varun: @16478968425 was working on it last night as far as i know!!
+[2023-11-12, 11:20:57 AM] Auradee Castro: Oooh you should have left it running before going to work hehe anyways, you can do it tom. just let me know for issues.. Happy Diwali! 😊
+[2023-11-12, 11:23:32 AM] Varun: I will do it by tomorrow dont worry also the logistic model.
+[2023-11-12, 11:23:47 AM] Varun: End of day!😂
+[2023-11-12, 11:37:20 AM] ~ Bhumika: Hi Aura.. going to do it now
+[2023-11-12, 11:37:32 AM] ~ Bhumika: Happy Diwali 😃
+[2023-11-12, 11:39:01 AM] ~ Olivia: Happy Diwali 🪔
+‎[2023-11-12, 11:39:44 AM] ~ Olivia: ‎GIF omitted
+[2023-11-12, 1:11:15 PM] Rochan: I had to make some changes in the code but it is working for me! It takes approx.60-70 seconds for me tk process 1 file
+[2023-11-12, 1:11:53 PM] Rochan: I am already done with 500 files out of 600 assigned to me
+[2023-11-12, 1:12:09 PM] Rochan: I can run other files too before going to work
+[2023-11-12, 1:12:26 PM] ~ Olivia: Mine 163, many to go
+[2023-11-12, 1:12:27 PM] Rochan: Just let me know whose portion should i pick 😂😂
+[2023-11-12, 1:17:25 PM] Auradee Castro: That’s great! Thanks rochan! You can take either varun or abhishek. You can ask them 😁
+[2023-11-12, 1:17:53 PM] Auradee Castro: Btw, zip your sentiments completed under your name then upload it in COMPLETE folder in MS teams
+[2023-11-12, 1:18:16 PM] Rochan: My part won’t finish before me leaving for work
+[2023-11-12, 1:18:45 PM] Rochan: I will do this after I am back from work
+[2023-11-12, 1:19:03 PM] Rochan: Which will be 1-2 am tonight 😅
+[2023-11-12, 1:19:46 PM] Auradee Castro: Ahh you’ll just add the files in the folder.. just take varun and/or abhishek 🙂
+[2023-11-12, 1:20:48 PM] Auradee Castro: The files are numbered anyway hehe
+[2023-11-12, 1:21:25 PM] Auradee Castro: Thank you rochan 😊
+[2023-11-12, 1:21:50 PM] Rochan: Nah that won’t work aura bcz your code makes a list of filenames in the directory and then starts the loop! I will have to rerun the code after adding files to the folder!!
+[2023-11-12, 1:22:14 PM] Auradee Castro: Oh yeah, forgot abt that hahaha
+[2023-11-12, 1:22:21 PM] Rochan: No problem
+[2023-11-12, 1:22:38 PM] Rochan: It is managea
+[2023-11-12, 1:22:46 PM] Rochan: Manageable*
+[2023-11-12, 1:23:23 PM] Auradee Castro: Okay, great! Thanks again rochan! 🙂
+[2023-11-12, 1:23:46 PM] Auradee Castro: Will be done by the end of the day 😁
+[2023-11-12, 1:24:15 PM] Rochan: Don’t say thanks!! I am anyways contributing so less 😅
+[2023-11-12, 1:27:32 PM] Auradee Castro: No worries, you’re able to contribute still despite your schedule 😉
+‎[2023-11-12, 1:47:19 PM] Rochan: ‎image omitted
+[2023-11-12, 4:09:22 PM] Auradee Castro: yes, it should be faster compared to the initial analysis due to multithreading 🙂
+[2023-11-12, 4:10:37 PM] Auradee Castro: i like it, when you added the execution time
+[2023-11-12, 4:17:41 PM] Roger Mais: Wow
+[2023-11-12, 5:29:09 PM] Roger Mais: @16479979841  how is the document part coming?
+[2023-11-12, 6:09:53 PM] Miraj: working on it right now. Can someone help me with a rough flow diagram of the data pipeline for our project? I'll be done with the domain part by tonight.
+[2023-11-12, 6:10:20 PM] Roger Mais: I’ll work on this
+[2023-11-12, 6:11:01 PM] Miraj: Thanks
+[2023-11-12, 6:11:51 PM] Miraj: Also on the coding part is anyone else getting this error when running the "Generate Sentiments using Roberta"?:
+OSError: Can't load the configuration of 'cardiffnlp/twitter-roberta-base-sentiment'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'cardiffnlp/twitter-roberta-base-sentiment' is the correct path to a directory containing a config.json file
+[2023-11-12, 6:13:22 PM] ~ Olivia: Hi Miraj, is this related to the csv files
+[2023-11-12, 6:14:19 PM] ~ Olivia: Make sure when you extract the file it’s on split_dataset folder and not under your name’s folder
+[2023-11-12, 6:14:42 PM] ~ Olivia: I remember i had issue on my first run of this
+[2023-11-12, 6:14:43 PM] Miraj: yeah. I'm following Aura's instructions for modeling, running the codes for my split
+[2023-11-12, 6:15:28 PM] ~ Olivia: You need to pip install something as well. Let me try to recall
+[2023-11-12, 6:15:38 PM] Miraj: Yeah its under the split dataset folder
+[2023-11-12, 6:17:13 PM] Miraj: I've installed the tqmd package if that's what you're referring to
+[2023-11-12, 6:17:28 PM] Miraj: Still getting the error
+[2023-11-12, 6:17:45 PM] ~ Olivia: Hold on trying to check the history in my terminal
+[2023-11-12, 6:17:57 PM] Miraj: sure
+[2023-11-12, 6:18:15 PM] ~ Olivia: What’s the version of your python?
+[2023-11-12, 6:18:31 PM] ~ Olivia: I had to upgrade from 3.8 to 3.10 for this to work
+[2023-11-12, 6:19:52 PM] Miraj: its 3.11
+[2023-11-12, 6:20:00 PM] ~ Olivia: Oh even higher
+[2023-11-12, 6:20:02 PM] ~ Olivia: Hehe
+[2023-11-12, 6:20:10 PM] Miraj: yeah😂
+[2023-11-12, 6:20:16 PM] Miraj: I'm using docker so
+[2023-11-12, 6:20:53 PM] ~ Olivia: python -m spacy download en_core_web_sm --user
+[2023-11-12, 6:21:05 PM] ~ Olivia: i executed this, but i think this is for the sentiment part
+[2023-11-12, 6:21:25 PM] ~ Olivia: only up to this is the one saved in my terminal history
+[2023-11-12, 6:22:13 PM] Rochan: Me too
+[2023-11-12, 6:23:02 PM] Miraj: I think I did this already. Let me try again
+[2023-11-12, 6:36:43 PM] Miraj: Still not working
+[2023-11-12, 6:48:04 PM] ~ Olivia: Hmmm
+‎[2023-11-12, 6:54:30 PM] Miraj: ‎image omitted
+[2023-11-12, 8:20:08 PM] Auradee Castro: @16479979841 no code changes was done on olivia and bhumika. It should be working fine. split_dataset_directory_path contains all the files from zipped file. Those are the files we need to process. The done directory are for files that were done processing.
+[2023-11-12, 8:21:31 PM] Auradee Castro: ‘done’ directory doesn’t have any data from the start. As shown from the code, it will be created if the folder doesn’t exist
+[2023-11-12, 8:22:28 PM] Auradee Castro: @16478968425 can i see the sample output of your files later?
+[2023-11-12, 8:27:39 PM] Miraj: Yeah I was wondering about how it worked for the others
+[2023-11-12, 8:51:37 PM] Auradee Castro: didn't encounter this issue, and i'm not using docker.. trying to search for this error, but they're not helpful.. hmm @16478968425 you're using docker right, did you encounter this error?
+[2023-11-12, 9:05:38 PM] Auradee Castro: hi @18762810413 and @919460760368, any updates or progress with the sentiment labelling? no issues encountered?
+[2023-11-12, 10:50:50 PM] Rochan: I will share the output once i reach home
+[2023-11-12, 10:51:04 PM] Rochan: But i checked in the sentiment folder
+[2023-11-12, 10:51:11 PM] Rochan: And files are generating with labels
+[2023-11-12, 11:12:08 PM] Roger Mais: I’m just checking it … failed 😞
+[2023-11-13, 3:32:32 AM] Rochan: Out of 1800 files (me, varun and abhishek) 1450 are done rest will be done by korning
+[2023-11-13, 3:32:37 AM] Rochan: Morning*
+[2023-11-13, 3:48:15 AM] ~ Olivia: Mine is done as well 😀
+[2023-11-13, 3:49:43 AM] Rochan: Awsome
+[2023-11-13, 7:47:05 AM] Auradee Castro: Great! Kindly zip the *sentiment* files and use your name as the filename. Upload it in MS Teams under COMPLETE folder. Btw, are there any review files that weren’t processed due to byte size error? If yes, kindly include them as well. No need to include the files in done folder. Thank you guys! ☺️ 
+
+@6596751777 @16478968425 @14379886105
+
+If it’s okay, kindly upload it before 10am. I still need to merge the files before sending it to Varun for mode building. ‎<This message was edited>
+[2023-11-13, 7:50:40 AM] Auradee Castro: Able to figure out the issue @18762810413?
+[2023-11-13, 7:52:08 AM] ~ Bhumika: I left it over night but still have 100 files left.. and i have to leave for work rn
+[2023-11-13, 7:52:14 AM] ~ Bhumika: I’ll upload it tonight
+[2023-11-13, 7:54:55 AM] Auradee Castro: Ooh why it takes longer for you.. What time you’re leaving? Kindly upload what was done, I’ll continue the rest. So zip the whole split_dataset (excluding done folder) then upload it @14379886105 ‎<This message was edited>
+[2023-11-13, 7:59:26 AM] ~ Bhumika: I just left… is it okay if I ask my roomate to send it over at 1pm.. she’s not at home rn
+[2023-11-13, 8:00:01 AM] ~ Bhumika: Idk what happened.. 200 files were left when I went to bed but almost all of them were still pending this morning
+[2023-11-13, 8:02:34 AM] Auradee Castro: Maybe those files have issues just like mine. Include them when sending the file then I’ll check.. Sure, if it’s okay to her. Thank you @14379886105
+[2023-11-13, 8:02:56 AM] ~ Bhumika: Okay sure
+[2023-11-13, 8:08:13 AM] Rochan: I will also be able to send around same time!!
+[2023-11-13, 8:08:43 AM] Auradee Castro: Sure @16478968425
+[2023-11-13, 8:10:01 AM] Auradee Castro: Thank you guys! 🙂
+[2023-11-13, 8:34:19 AM] ~ Olivia: @14372606051 I already uploaded mine
+[2023-11-13, 8:35:39 AM] Auradee Castro: Thank you @6596751777 😊
+[2023-11-13, 8:37:51 AM] Auradee Castro: Btw, @16479979841 you don’t need to do this. I executed your files and they’re all done as well.. The issue you encountered is not common. Might be related to docker. ‎<This message was edited>
+[2023-11-13, 9:10:24 AM] Miraj: Got it. Thank you Aura😊
+[2023-11-13, 9:27:28 AM] Roger Mais: Execute mine too 😞
+‎[2023-11-13, 11:19:47 AM] Roger Mais: ‎image omitted
+[2023-11-13, 11:20:00 AM] Roger Mais: whats missing or need to change?
+[2023-11-13, 11:20:16 AM] Roger Mais: @16479979841
+[2023-11-13, 11:47:51 AM] Auradee Castro: No worries Roger, will do it 🙂
+‎[2023-11-13, 11:53:12 AM] Auradee Castro: ‎image omitted
+[2023-11-13, 12:08:11 PM] Roger Mais: Ok
+[2023-11-13, 12:08:17 PM] Roger Mais: Adjusting
+[2023-11-13, 4:43:04 PM] Roger Mais: Sigh I just remembered about FRAMEWORK assignment
+[2023-11-13, 4:44:06 PM] Miraj: yeah 🤦‍♂️
+[2023-11-13, 4:44:06 PM] Miraj: when's it due?
+[2023-11-13, 4:51:41 PM] Roger Mais: Tonight I beleive
+[2023-11-13, 4:52:07 PM] Auradee Castro: I just checked it. deadline is wed, 12am ‎<This message was edited>
+[2023-11-13, 4:52:53 PM] ~ Olivia: Is it graded one?
+[2023-11-13, 4:52:54 PM] ~ Olivia: Hehe
+[2023-11-13, 4:53:46 PM] Miraj: don't scare us like that😂
+[2023-11-13, 4:54:13 PM] Roger Mais: It’s tonight at midnight
+[2023-11-13, 4:54:25 PM] Roger Mais: Tomorrow *
+[2023-11-13, 5:02:25 PM] Auradee Castro: good thing we don't have soc media class tom. we have more time to do it :)
+[2023-11-13, 5:02:54 PM] Auradee Castro: not sure, it's just a lab work. not assign hehe
+[2023-11-13, 5:04:55 PM] Auradee Castro: assign is I think the graded one.. unless she'll get bonus from labs
+‎[2023-11-13, 5:30:19 PM] Roger Mais: ‎image omitted
+‎[2023-11-13, 6:04:15 PM] Auradee Castro: ‎image omitted
+[2023-11-13, 6:13:07 PM] Rochan: @14372606051 did you get time to check the files i have uploaded
+[2023-11-13, 6:13:33 PM] Rochan: On teams
+[2023-11-13, 6:16:15 PM] Roger Mais: Ok no problem
+[2023-11-13, 7:01:30 PM] Auradee Castro: yes, I got the files in teams. seems to have no issue.. I think hehe thanks rochan :)
+[2023-11-13, 9:23:20 PM] Rochan: No problemo
+[2023-11-14, 2:36:24 AM] Varun: Guys
+[2023-11-14, 2:38:25 AM] Varun: I tried to implement multinomial naive baye bernauli naive bayes and logistic regression the highest accuracy i could get was 0.52😅
+With some hyperparameter tuning in logistic regression i got 0.56
+[2023-11-14, 3:35:51 AM] Varun: So…….we had 5 classes for the roberta_sentiment
+Positive
+Strongly positive
+Neutral
+Negative
+Strongly negative
+[2023-11-14, 3:36:18 AM] Varun: reduced it to only 3 classes positive negative and neutral
+[2023-11-14, 3:40:23 AM] Varun: Which helped in increasing the accuracy to 68 percent with logistic regression and 64 with naive bayes
+[2023-11-14, 3:40:36 AM] Varun: 😵‍💫😵‍💫😵‍💫
+[2023-11-14, 3:41:12 AM] Rochan: Hang in there champ !! 😅
+[2023-11-14, 3:41:22 AM] Varun: Go to sleep @6596751777
+[2023-11-14, 3:43:40 AM] ~ Olivia: I am already working
+[2023-11-14, 3:43:44 AM] ~ Olivia: 🤣
+[2023-11-14, 3:43:52 AM] ~ Olivia: You guys sleep
+[2023-11-14, 3:46:05 AM] Rochan: Oih!!
+[2023-11-14, 3:46:08 AM] Rochan: Ooh*
+[2023-11-14, 3:46:12 AM] Varun: Ohh yesssssss! Enjoyyyyyyyy
+[2023-11-14, 3:46:18 AM] Varun: Good night
+[2023-11-14, 3:46:21 AM] Varun: 🫡
+[2023-11-14, 8:12:23 AM] Auradee Castro: Sorry varun I fell asleep 😅 what vectorizer or word embeddings you used? Can you commit your codes on naive bayes?
+[2023-11-14, 9:36:55 AM] Varun: Its there in my local
+[2023-11-14, 9:37:31 AM] Roger Mais: What did you use as the input for the logistic model?
+[2023-11-14, 9:39:04 AM] Varun: Vectorized reviews
+[2023-11-14, 9:39:49 AM] Roger Mais: Ok ✅
+[2023-11-14, 10:43:04 AM] Auradee Castro: Can you commit your codes @14379839255? I run the codes with NER and it’s complete. We can check if it will improve the model. hopefully the kernel wont restart.
+[2023-11-14, 10:43:28 AM] Varun: Already did
+[2023-11-14, 10:43:48 AM] Varun: Get it from rochans local he added comments
+[2023-11-14, 10:43:59 AM] Rochan: Yeah
+[2023-11-14, 10:44:39 AM] Auradee Castro: Okay will check thanks 😊
+[2023-11-14, 10:48:48 AM] Auradee Castro: Maybe this is the reason why the model gives us low scores. There are words mixed in negative and neutral reviews that’s supoosed to be positive like ‘good’ ‎<This message was edited>
+‎[2023-11-14, 10:49:03 AM] Auradee Castro: ‎image omitted
+[2023-11-14, 10:50:00 AM] Varun: 😵‍💫😵‍💫
+[2023-11-14, 10:52:28 AM] Varun: If Film and movie as words are coming up in most of the reviews we can remove them? Becuase it might also confuse the model?
+[2023-11-14, 10:58:16 AM] Varun: And this is just on 30k rows. Maybe it will increase when we provide more data to our model
+[2023-11-14, 10:59:11 AM] Auradee Castro: There’s a point. We’ll try to remove them later. Will try first with the data after lemma. Did you combine positive and strongly positive, and negative and strongly negative?
+[2023-11-14, 10:59:52 AM] Varun: Yeah i did. The accuracy increased by 15 percent after thet
+[2023-11-14, 11:00:19 AM] Varun: Oh but i did it directly in my excel
+[2023-11-14, 11:00:39 AM] Varun: Replaced strongly positive with positive and same with strongly negative
+[2023-11-14, 11:17:15 AM] Auradee Castro: removing the NER improved the model
+‎[2023-11-14, 11:17:17 AM] Auradee Castro: ‎image omitted
+[2023-11-14, 11:17:35 AM] Varun: Wowww
+[2023-11-14, 11:17:44 AM] Varun: What about logistic?
+[2023-11-14, 11:18:28 AM] Auradee Castro: I didn't try it coz it's prone to overfitting.. but sure, will run it as well
+[2023-11-14, 11:18:44 AM] Roger Mais: Remember Logistic isn’t the final model … as the professor said it’s not very good for what we are doing but the midpoint it just to show we have a pipeline
+[2023-11-14, 11:19:47 AM] Auradee Castro: maybe let's just keep the naïve?.. he might think we're not listening to his class is we use logistic regression..
+[2023-11-14, 11:20:33 AM] Varun: Yes i know you are going to work on lstm which is obviously going to give more than 90% accuracy, not because the model is effective but you coding is the key
+[2023-11-14, 11:20:39 AM] Varun: 😂
+[2023-11-14, 11:21:48 AM] Roger Mais: I’m fine with this
+[2023-11-14, 11:21:50 AM] Auradee Castro: the NER is not perfect yet still. this might improve if we totally removed all the NERs
+[2023-11-14, 11:22:14 AM] Roger Mais: Ye don’t over complicate it  for now
+[2023-11-14, 11:22:15 AM] Varun: Sure. Lets stick with Naive then
+[2023-11-14, 11:22:40 AM] Varun: What are we gonna show for tuning?
+[2023-11-14, 11:22:48 AM] Varun: For mid point
+[2023-11-14, 11:23:20 AM] Auradee Castro: i'm about to ask hahaha that can be done if we use gridsearch to check which params is better ‎<This message was edited>
+[2023-11-14, 11:23:49 AM] Varun: Yeah if you see i did it for logistic just need to implement it with naive
+[2023-11-14, 11:24:09 AM] Auradee Castro: I don't know how to evaluate and analyze this using graphs, like that our professor has shown to us ‎<This message was edited>
+[2023-11-14, 11:24:35 AM] Varun: My vscode crashed everytime executing the code for hyperparameter tuning.
+[2023-11-14, 11:25:24 AM] Auradee Castro: maybe you have a lot of combinations hehe
+[2023-11-14, 11:26:26 AM] Varun: Ya i reduced them. I also tried to implement Tf idf which was giving lesser accuracy than count vectorizor
+[2023-11-14, 11:27:41 AM] Varun: Also for labeling the target variables into numbers we are using label emcoding but i have heard if the target data is not variable one hot encoding is more useful. Need to check on that not sure right now
+[2023-11-14, 11:27:58 AM] Varun: Have read*
+[2023-11-14, 11:28:13 AM] Varun: Target data is not ordinal*
+[2023-11-14, 4:26:45 PM] Auradee Castro: Hi guys! I’ll set a mtg later at 6pm to finalize the stuff required for mid-point presentation
+[2023-11-14, 4:26:59 PM] Roger Mais: Pleas everyone try to make it
+[2023-11-14, 6:01:51 PM] Roger Mais: Did you send out a link?
+[2023-11-14, 6:02:07 PM] ~ Olivia: On outlook
+[2023-11-14, 6:02:49 PM] Miraj: Not on teams?
+[2023-11-14, 6:04:40 PM] ~ Olivia: Sent you invite Miraj
+[2023-11-14, 7:58:23 PM] Roger Mais: Hey @14372606051
+[2023-11-14, 7:58:35 PM] Roger Mais: Can you hope back on real quick
+[2023-11-14, 7:58:39 PM] Roger Mais: Hop*
+[2023-11-14, 9:21:06 PM] Roger Mais: Does everyone need to submit?
+[2023-11-14, 9:21:10 PM] Roger Mais: Or one person?
+[2023-11-14, 10:41:50 PM] Miraj: Hi guys, I'm done with the case background as well as the case study. Please have a look at it and let me know if any changes are to be made
+[2023-11-14, 11:11:32 PM] Varun: Thanks Miraj👏👏👏👏👏
+[2023-11-14, 11:13:36 PM] Miraj: No problem
+[2023-11-14, 11:18:15 PM] Roger Mais: @14372606051 ?
+‎[2023-11-14, 11:29:41 PM] Auradee Castro: Other Python Files.pdf • ‎6 pages ‎document omitted
+‎[2023-11-14, 11:29:42 PM] Auradee Castro: Generate Sentiments using Roberta.html ‎document omitted
+‎[2023-11-14, 11:29:48 PM] Auradee Castro: Movie Sentiment Analysis.html ‎document omitted
+[2023-11-14, 11:31:02 PM] Rochan: Do we all have to submit
+[2023-11-14, 11:31:16 PM] Roger Mais: Looks good
+[2023-11-14, 11:31:17 PM] Auradee Castro: i think only 1
+[2023-11-14, 11:31:26 PM] Varun: Amazing
+[2023-11-14, 11:31:33 PM] Roger Mais: You go ahead
+[2023-11-14, 11:31:49 PM] Roger Mais: You adding Miraj PowerPoint as well?
+[2023-11-14, 11:36:51 PM] Auradee Castro: yes, i'll zip all the files. will submit in a bit :)
+[2023-11-14, 11:37:09 PM] Roger Mais: Ok
+[2023-11-14, 11:38:30 PM] Auradee Castro: submitted. kindly check on your end as well to be sure... then we can sleep haha
+[2023-11-14, 11:38:45 PM] Auradee Castro: thank you guys! we made it on time ❤️
+[2023-11-14, 11:41:21 PM] Roger Mais: Yup submitted for all
+[2023-11-14, 11:41:25 PM] Roger Mais: Good night lol
+[2023-11-14, 11:43:12 PM] Varun: Good job guys
+‎[2023-11-14, 11:43:33 PM] Varun: ‎GIF omitted
+‎[2023-11-14, 11:44:20 PM] Auradee Castro: ‎GIF omitted
+[2023-11-14, 11:44:50 PM] Auradee Castro: good night guys! 😴
+[2023-11-14, 11:49:17 PM] Rochan: Thank you everyone ☺️☺️
+‎[2023-11-15, 7:55:55 AM] ~ Olivia: ‎GIF omitted
+[2023-11-15, 8:48:07 AM] ~ Olivia: Good Morning. Prof is here
+‎[2023-11-15, 8:48:42 AM] Roger Mais: ‎GIF omitted
+[2023-11-15, 9:05:30 AM] ~ Olivia: There is in lab class
+[2023-11-15, 9:05:46 AM] ~ Olivia: To be submitted by 11:30
+‎[2023-11-15, 9:06:07 AM] Roger Mais: ‎GIF omitted
+[2023-11-15, 9:06:27 AM] Roger Mais: What is it about spark,
+[2023-11-15, 9:06:30 AM] Roger Mais: ?
+[2023-11-15, 11:32:42 AM] Roger Mais: Tell us when NLP
+[2023-11-15, 11:32:45 AM] Roger Mais: Teacher is there
+[2023-11-15, 12:26:54 PM] Roger Mais: 7 slides
+[2023-11-15, 12:26:57 PM] Roger Mais: An no NLP??
+[2023-11-15, 12:26:59 PM] Roger Mais: Lol
+[2023-11-15, 5:04:07 PM] Roger Mais: Still can’t believe he had no questions lol
+[2023-11-15, 5:04:22 PM] ~ Olivia: Haha
+‎[2023-11-15, 5:04:32 PM] Roger Mais: ‎GIF omitted
+[2023-11-15, 5:05:00 PM] ~ Olivia: Guys you have wrong answer in yhe only question he had ‎<This message was edited>
+[2023-11-15, 5:05:10 PM] ~ Olivia: We do have rating in reviews 🤣
+[2023-11-15, 5:05:55 PM] ~ Olivia: If he asked again next time asking why we said no
+[2023-11-15, 5:06:21 PM] ~ Olivia: We can just say that we are using that for high level understanding but not included in the sentiment analysis
+[2023-11-15, 5:06:36 PM] ~ Olivia: I hope he doesn’t check the dataset
+[2023-11-15, 5:08:35 PM] Roger Mais: It’s the movie rating
+[2023-11-15, 5:08:39 PM] Roger Mais: Not the reviews
+[2023-11-15, 5:08:41 PM] Roger Mais: I believe
+[2023-11-15, 5:20:36 PM] Auradee Castro: Actually, there’s a rating on each review. Olivia created a graph for that one so she knows.. just be careful on giving answers guys next time, esp if you’re not sure. 🙂
+[2023-11-15, 5:32:12 PM] Roger Mais: There are ratings for each review??????
+[2023-11-15, 5:38:09 PM] Auradee Castro: Unfortunately, we have that data hehe
+‎[2023-11-15, 5:38:18 PM] Auradee Castro: ‎image omitted
+‎[2023-11-15, 5:38:49 PM] ~ Olivia: ‎image omitted
+[2023-11-15, 5:38:51 PM] Roger Mais: The “rating” column is the review of the movie????
+[2023-11-15, 5:39:06 PM] Roger Mais: That seems to be the movie
+[2023-11-15, 5:39:41 PM] Auradee Castro: The filename says otherwise
+[2023-11-15, 5:39:52 PM] Roger Mais: What does it say??
+[2023-11-15, 5:40:01 PM] Roger Mais: If it was a review rating is usually from 1-5
+[2023-11-15, 5:40:03 PM] Roger Mais: Not 8
+[2023-11-15, 5:40:04 PM] Auradee Castro: review.csv?
+[2023-11-15, 5:40:10 PM] ~ Olivia: Review of the person reviewing for the movie
+[2023-11-15, 5:40:35 PM] Roger Mais: Yes review it the movie lol
+[2023-11-15, 5:40:47 PM] Roger Mais: For the data
+[2023-11-15, 5:40:51 PM] Roger Mais: Have metadata?
+[2023-11-15, 5:40:55 PM] Roger Mais: From Kaggle?
+[2023-11-15, 5:41:01 PM] Roger Mais: Maybe it specifies
+[2023-11-15, 5:42:10 PM] Abhishek Natani: So in short even if it’s confusing what it is and we are not using the rating , let’s ignore it and stick to ‘not having ratings’ let alone be review or movie
+[2023-11-15, 5:42:19 PM] Roger Mais: This is usually movie reviews
+[2023-11-15, 5:42:25 PM] Roger Mais: 1-10
+[2023-11-15, 5:42:33 PM] Roger Mais: 10 being the High movie
+[2023-11-15, 5:42:43 PM] Roger Mais: They rated Kill Bill 8/10
+[2023-11-15, 5:42:50 PM] Roger Mais: That’s what I’m getting from this
+[2023-11-15, 5:42:55 PM] Roger Mais: But correct me if I’m wrong
+[2023-11-15, 5:43:00 PM] Abhishek Natani: IGNORE IT ! we ain’t sure to use it in our model no?
+[2023-11-15, 5:43:52 PM] Roger Mais: The actual review ratings are usually 1-5 stars
+[2023-11-15, 5:44:09 PM] ~ Olivia: Let’s revisit next time
+[2023-11-15, 5:44:22 PM] ~ Olivia: For now let’s chill and enjoy the result of today’s presentation 😀
+[2023-11-15, 5:44:44 PM] Roger Mais: Ye sure we can’t change it now, lol but I was told we only have movie ratings hence the Roberta idea lol …
+[2023-11-15, 5:44:50 PM] Roger Mais: But anyways 😌🤷🏾‍♂️
+‎[2023-11-15, 5:45:11 PM] Roger Mais: ‎GIF omitted
+[2023-11-15, 5:47:45 PM] Auradee Castro: Yep, got nothing to do with it 😅 hopefully, he forgot abt our answer haha
+[2023-11-15, 5:48:28 PM] ~ Olivia: roBERTa is still needed 🤣
+[2023-11-15, 5:56:03 PM] Abhishek Natani: No! See understand one thing , a review or a comment cannot have a rating. Just look at a rating along with a review is for ‘something’ , can be a movie a product or whichever case. These rating are here for a movie.
+
+A review can have ‘upvotes’ ‘downvotes’ or ‘likes’ ‘dislikes’. A review is nothing but just a COMMENT which can never have ratings. A rating is an addition to review for something, in this case that something is a ‘movie’ 
+
+Roger is right that these ratings are for movies and in no practical world there can be a rating for REVIEW ‎<This message was edited>
+[2023-11-15, 5:58:04 PM] Abhishek Natani: Like if I comment on an Amazon product , my review can have likes 👍 or dislikes 👎 but how can I rate my review? I can only rate that product
+[2023-11-15, 6:07:29 PM] Auradee Castro: I think the question was if there’s a rating provided by the viewer that comes with the review. Of course, you won’t rate the review. But you can gauge if the viewer loves/hates the movie based on the rating he provided. Our professor seemed to have a follow up question on this if we said yes.. based from his reaction.
+‎[2023-11-15, 6:07:57 PM] ~ Olivia: ‎image omitted
+[2023-11-15, 6:08:22 PM] ~ Olivia: I hope this answers the question if it’s movie review or personal movie rating of the person reviewing
+‎[2023-11-15, 6:08:37 PM] ~ Olivia: ‎image omitted
+[2023-11-15, 6:09:02 PM] ~ Olivia: For 1 movie cloverfield has different ratings ‎<This message was edited>
+[2023-11-15, 6:09:25 PM] Abhishek Natani: Exactly see the last column helpful or not and numbers , that’s for review and rating is for movie
+[2023-11-15, 6:20:09 PM] ~ Bhumika: I think Aura is right…. If the reviewer rates the movie 3/10 then there’s no way he would actually leave a positive review right? It’s safe to assume it as negative
+[2023-11-15, 6:27:57 PM] Abhishek Natani: Then why NLP , I can feed this data to sql table and take a select statement and make a column sentiment like :
+UPDATE reviews
+SET sentiment = 'positive'
+WHERE ratings >= 6;
+
+UPDATE reviews
+SET sentiment = 'negative'
+WHERE ratings < 5;
+
+UPDATE reviews
+SET sentiment = 'neutral'
+WHERE ratings = 5;
+
+And project done. Doesn’t make sense ‎<This message was edited>
+[2023-11-15, 6:29:21 PM] Roger Mais: You can hate a movie an still give a ( positive sentiment )review
+[2023-11-15, 6:29:46 PM] Roger Mais: Example - I can give Thor  a 3/10
+[2023-11-15, 6:30:20 PM] Roger Mais: But my review is saying «  I love Thors acting , and the VFX an the plot moved well but the movie was a bit long for me « ‎<This message was edited>
+[2023-11-15, 6:30:34 PM] Roger Mais: That generally positive sentiment
+[2023-11-15, 6:30:54 PM] Roger Mais: The movie rating doesn’t mean positive or negative sentiment from the review
+[2023-11-15, 6:31:08 PM] ~ Olivia: Yes, but prof was just asking if thereis rating
+[2023-11-15, 6:31:26 PM] ~ Bhumika: Mhmm yeah.. makes sense
+[2023-11-15, 6:31:28 PM] Roger Mais: Ratings for the reviews Oliv
+[2023-11-15, 6:31:41 PM] Roger Mais: He was acting what’s the point of using
+[2023-11-15, 6:31:46 PM] Roger Mais: Roberta
+[2023-11-15, 6:31:51 PM] Roger Mais: If we had this
+[2023-11-15, 6:32:01 PM] ~ Olivia: Because we used that for the actual review
+[2023-11-15, 6:32:10 PM] Abhishek Natani: Cook food and eat and relax for today please
+[2023-11-15, 6:32:14 PM] Roger Mais: Right
+[2023-11-15, 6:37:38 PM] Auradee Castro: If the question is abt the importance of roberta.. then yes, we used it to properly get the sentiment of the reviews. Coz bad rating doesn’t necessarily mean bad review. *But the question was if there’s a rating provided by the user together with the review.* then the answer if yes.
+[2023-11-15, 6:37:58 PM] Auradee Castro: Anyway, let’s forget about it and enjoy the rest of the day
+‎[2023-11-15, 6:38:15 PM] ~ Olivia: ‎GIF omitted
+[2023-11-15, 6:38:16 PM] Auradee Castro: We still did a great job overall 😊 ‎<This message was edited>
+[2023-11-15, 6:38:35 PM] ~ Olivia: Yes!!!
+[2023-11-15, 6:38:38 PM] ~ Olivia: 😀
+[2023-11-15, 6:39:10 PM] Auradee Castro: Our professor knows the effort we put on this project 😊
+‎[2023-11-15, 6:39:49 PM] Roger Mais: ‎GIF omitted
+‎[2023-11-15, 6:40:35 PM] Auradee Castro: ‎GIF omitted
+‎[2023-11-15, 7:37:45 PM] Varun: ‎GIF omitted
+[2023-11-15, 9:18:00 PM] Rochan: I have the same understanding
+[2023-11-15, 9:22:21 PM] Rochan: And guys even if we made a wrong comment it’s bot a big deal we can always say that our understanding wans wrong and we double checked it!! Because i feel review plus rating given by the reviewer can both be important features!!
+
+Just saying..!!
+[2023-11-15, 9:24:26 PM] ~ Olivia: Yes it’s called hybrid
+[2023-11-15, 9:25:29 PM] Rochan: Rest data engineers of our group know it better 😂😂
+‎[2023-11-15, 11:29:58 PM] Roger Mais: ‎image omitted
+[2023-11-15, 11:30:08 PM] Roger Mais: Them find me on Instagram @6596751777 @14372606051 ‎<This message was edited>
+[2023-11-15, 11:30:10 PM] Roger Mais: 🤣🤣🤣
+‎[2023-11-15, 11:31:08 PM] Varun: ‎GIF omitted
+[2023-11-16, 7:27:30 AM] ~ Olivia: Hahaha. AI spy 🤣
+[2023-11-17, 11:20:49 AM] Roger Mais: Remember Capstone is in ML classroom today ‎<This message was edited>
+[2023-11-17, 11:21:11 AM] Abhishek Natani: Second floor?
+[2023-11-17, 11:21:17 AM] Roger Mais: Yup
+[2023-11-17, 11:34:11 AM] ~ Olivia: Which room again
+[2023-11-17, 11:34:29 AM] Abhishek Natani: Second floor where Tuesday class is scheduled
+[2023-11-17, 11:37:55 AM] ~ Olivia: Thanks
+[2023-11-17, 11:57:23 AM] Roger Mais: 202
+[2023-11-17, 11:57:26 AM] Roger Mais: ML class
